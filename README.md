@@ -21,7 +21,7 @@
 Here are some of my most popular and notable projects:
 
 | **Project**     | **Description**                                                                                  |
-|-----------------|-----------------------------------------------------------------------------------------------|-----------------|
+|------------------|-----------------------------------------------------------------------------------------------|
 | **[TaskTracker](https://github.com/pablocg11/TaskTracker)** | A simple task management app built with SwiftUI.                                                   |
 | **[Tempora](https://github.com/pablocg11/Tempora)**     | A weather app using Clean Architecture, with features like location search and offline caching.   | 
 | **[EasyGrade](https://github.com/pablocg11/EasyGrade)** | An intuitive exam management app with camera recognition and scoring automation.                 | 
