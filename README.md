@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/97369934?v=4" width="150" style="border-radius: 50%;"/>
-</p>
-
 <h1 align="center">Hi there, I'm Pablo Castro 👋</h1>
 
 <p align="center">
