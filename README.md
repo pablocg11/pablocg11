@@ -35,7 +35,6 @@ Here are some of my most popular and notable projects:
 ### 📫 **Get in Touch**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablocgcc/)
 - 📧 **Email**: pablocg.cc@gmail.com
-- 
 ---
 
 <p align="center">
