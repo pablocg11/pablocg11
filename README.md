@@ -17,27 +17,25 @@
 Here are some of my most popular and notable projects:
 
 | **Project**     | **Description**                                                                                  |
-|------------------|-----------------------------------------------------------------------------------------------|
-| **[TaskTracker](https://github.com/pablocg11/TaskTracker)** | A simple task management app built with SwiftUI.                                                   |
-| **[Tempora](https://github.com/pablocg11/Tempora)**     | A weather app using Clean Architecture, with features like location search and offline caching.   | 
-| **[EasyGrade](https://github.com/pablocg11/EasyGrade)** | An intuitive exam management app with camera recognition and scoring automation.                 | 
-| **[FlashNews](https://github.com/pablocg11/FlashNews)** | A news aggregator app with category browsing, real-time notifications, and keyword search.       | 
-| **[PackOpening](https://github.com/pablocg11/PackOpening)** | A Pokémon-inspired SwiftUI app simulating interactive pack openings with carousel design.         | 
+|------------------|-----------------------------------------------------------------------------------------------|        
 | **[GitVista](https://github.com/pablocg11/GitVista)**   | A GitHub viewer app to explore profiles and repositories with sorting options.                   |
+| **[Tempora](https://github.com/pablocg11/Tempora)**     | A weather app using Clean Architecture, with features like location search and offline caching.  | 
+| **[FlashNews](https://github.com/pablocg11/FlashNews)** | A news aggregator app with category browsing, real-time notifications, and keyword search.       | 
 
 ---
 
 ### 🛠️ **Tech Stack**
 - **Languages**: Swift, SwiftUI, React native
-- **Architectures**: Clean Architecture, MVVM, MVP, VIPER
+- **Architectures**: Clean Architecture, MVVM, MVP
 - **Tools**: Xcode, Firebase, Bitrise, SwiftLint, LottieFiles
-- **Version Control**: Git, GitHub, BitBucket
+- **Version Control**: Git, GitHub
   
 ---
 
 ### 📫 **Get in Touch**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablocgcc/)
 - 📧 **Email**: pablocg.cc@gmail.com
+- 
 ---
 
 <p align="center">
